@@ -38,12 +38,12 @@ Run1.png, Run2.png, … & Ru7.png – screenshots of the Scratch programs captur
 
 ---
 
-#📈 Performance-driven approach
+## 📈 Performance-driven approach
 We organized mission sequences, optimized paths, and implemented fallback procedures. We rigorously logged mission runs—tracking completion times, error occurrences, and iterative improvements—to ensure robust performance under competition conditions.
 
 ---
 
-#🛠️ 3. Robot Design – Build & CAD Details
+# 🛠️ 3. Robot Design – Build & CAD Details
 Our 3. Robot Design section showcases build-level innovations:
 
 Building Instructions – step-by-step assembly guides
@@ -56,17 +56,17 @@ The result: a stable, modular robot design capable of fine manipulation—ideal 
 
 ---
 
-#🧩 Repository Overview
+# 🧩 Repository Overview
 This repo is structured for clarity and openness:
 
-Folder	Purpose
+## Folder	Purpose
 1. Innovation	Research, prototype development & impact
 2. Robot Game	Strategy, Scratch code, testing & documentation
 3. Robot Design	Build guides, visual models, and CAD files
 
 ---
 
-#🙏 Attribution & Collaboration
+# 🙏 Attribution & Collaboration
 Using any part of this project? Please attribute “Fabton NV – Submerged Challenge Team” in your README, presentations, or code comments. Let’s foster open-source innovation together.
 
 
