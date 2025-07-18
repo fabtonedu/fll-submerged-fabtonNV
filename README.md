@@ -1,9 +1,9 @@
-#🌊 Fabton NV – FLL Submerged Challenge (Hong Kong Championship)
+# 🌊 Fabton NV – FLL Submerged Challenge (Hong Kong Championship)
 [Live demo & innovation link – coming soon]
 
 ---
 
-#🧠 1. Innovation – DeepTone Underwater Research Robot
+## 🧠 1. Innovation – DeepTone Underwater Research Robot
 Our FIRST LEGO League Innovation entry, DeepTone, is an autonomous underwater vehicle (AUV) tackling real-world aquatic issues. The 1. Innovation folder includes:
 
 AUVs – research on existing autonomous/submersible robotics
@@ -20,12 +20,12 @@ Time Management – logs tracking progress and responsibilities
 
 ---
 
-#🔍 Why DeepTone matters
+### 🔍 Why DeepTone matters
 By integrating modular design, sensor tech, swarm ideas, and sustainability, DeepTone aims to map and monitor underwater habitats more efficiently. We open-sourced all materials for educational and collaborative purposes.
 
 ---
 
-#🤖 2. Robot Game – Strategy, Planning & Execution
+# 🤖 2. Robot Game – Strategy, Planning & Execution
 In 2. Robot Game, you’ll find everything from strategy to implementation:
 
 Path Diagrams – visual maps for each mission’s routes
